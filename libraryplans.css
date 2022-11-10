@@ -1,0 +1,266 @@
+body
+{
+    box-sizing: border-box;
+   
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+
+    
+}
+.container
+{
+    box-sizing: border-box;
+    border: 0px solid #fff;
+    background-image:url( "http://raceias.com/storage/teams/lATupNbAR787bXPa04Q6z9eF8Fx4bhzpDCV9Unne.jpg");
+     background-attachment: fixed;
+    height: 2000px;
+    width: 100%;
+    position: absolute;
+}
+
+@media (max-width:1000px){
+    #h {
+        display: block;
+    }
+}
+.gold
+{
+    border: 1px solid black;
+    height: 300px;
+    width: 25%;
+    margin: 2% 5%;
+    text-align: center;
+    cursor: pointer;
+    letter-spacing: 0.8px;
+    background-color:burlywood;
+    box-shadow: 0 2px 48px 0 rgb(0 0 0 / 10%);
+}
+
+.gold img
+{
+    margin-top: 3%;
+
+}
+
+.gold h5
+{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-style: normal;
+    padding-bottom: 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.gold p 
+{
+    font-size: larger;
+    padding-bottom: 2px;
+    font-size: larger;
+    padding-bottom: 5px;
+    padding-block-start: 2em;
+    padding-block-end: 2em;
+     margin-inline-start: 0px;
+    margin-inline-end: 12px;
+    
+}
+
+.platinum
+{
+    border: 1px solid black;
+    height: 300px;
+    width: 25%;
+    margin: -22% 37%;
+    text-align: center;
+    background-color: burlywood;
+    cursor: pointer;
+    box-shadow: 0 2px 48px 0 rgb(0 0 0 / 10%);
+}
+
+.platinum img
+{
+    margin-top: 3%;
+}
+.platinum h5
+{
+    
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-style: normal;
+    padding-bottom: 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.platinum p
+{
+    font-size: larger;
+    padding-bottom: 2px;
+    font-size: larger;
+    padding-bottom: 5px;
+    padding-block-start: 2em;
+    padding-block-end: 2em;
+     margin-inline-start: 10px;
+    margin-inline-end: 22px;
+    letter-spacing: 0.7px;
+}
+
+.smh
+{
+    border: 1px solid black;
+    position: absolute;
+    height: 300px;
+    width: 25%;
+    margin-left:70%;
+    margin-top: 3%;
+    text-align: center;
+    background-color: burlywood;
+    cursor: pointer;
+    box-shadow: 0 2px 48px 0 rgb(0 0 0 / 10%);
+   
+
+}
+
+.smh h5
+{
+    
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace ;
+    font-style: normal;
+    padding-bottom: 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.smh p
+{
+    font-size: larger;
+    padding-bottom: 2px;
+    font-size: larger;
+    padding-bottom: 5px;
+    padding-block-start: 2em;
+    padding-block-end: 2em;
+     margin-inline-start: 10px;
+    margin-inline-end: 22px;
+    letter-spacing: 0.7px;
+}
+
+.smh img
+{
+    margin-top: 3%;
+    
+}
+
+ h1
+{
+    margin: 25% 40%;
+    font-size: 30px;
+    letter-spacing: 10px;
+    color: #fff;
+    
+}
+
+
+.reviews
+{
+    border: 0px solid #fff;
+    height: auto;
+    width: 100%;
+    margin: -23% 0;
+    
+}
+
+.r1
+{
+    border: 0px solid #fff;
+    height: 270px;
+    width: 25%;
+    margin: 0 5%;
+    text-align: center;
+    background-color:  burlywood;
+    
+}
+
+.r1 img
+{
+    height: 150px;
+    width: 250px;
+    margin-top: 5px;
+    
+}
+.r1 h2
+{
+    margin: 2% 0;
+
+}
+
+.r1 p
+{
+    font-size: large;
+}
+
+.r2
+{
+    border: 0px solid #fff;
+    height: 270px;
+    width: 25%;
+    margin: -17.5% 40%;
+    text-align: center;
+    background-color:  burlywood;
+    
+}
+
+.r2 img
+{
+    height: 150px;
+    width: 250px;
+    margin-top: 5px;
+    
+}
+.r2 h2
+{
+    margin: 2% 0;
+
+}
+
+.r2 p
+{
+    font-size: large;
+}
+
+.r3
+{
+    border: 0px solid #fff;
+    height: 273px;
+    width: 25%;
+    margin: 0 70%;
+    text-align: center;
+    background-color:  burlywood;
+    
+    
+}
+
+.r3 img
+{
+    height: 150px;
+    width: 250px;
+    margin-top: 5px;
+    
+}
+.r3 h2
+{
+    margin: 2% 0;
+
+}
+
+.r3 p
+{
+    font-size: large;
+}

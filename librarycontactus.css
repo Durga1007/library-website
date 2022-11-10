@@ -1,0 +1,98 @@
+body{
+
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container
+{
+    border: 0px solid black;
+    height: auto;
+    width: 100%;
+}
+
+
+iframe
+{
+    width: 1500px;
+}
+
+.contact
+{
+    border: 1px solid black; 
+    height: auto;
+    width: 100%;
+    background-color: rgba(0, 136, 232, 1);
+}
+
+.contact h1
+{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 3rem;
+    font-family: sans-serif;
+    font-weight: 600;
+   color: #fff;
+}
+
+.contact p
+{
+    text-align: center;
+    font-size: medium;
+    font-family: sans-serif;
+    font-weight: 100;
+    margin-top: -2%;
+color: #fff;
+}
+
+.timings
+{
+    border: 0px solid black;
+    border-radius: 5px;
+    height: 202px;
+    width: 53%;
+    text-align: center;
+    margin-left: 23%;
+    font-size: xx-large;
+    color: #fff;
+    background-color: #000;
+}
+
+table th
+{
+    padding-bottom: 30px;
+    vertical-align: top;
+    padding-block-start: 10px;
+    padding-inline-start: 0px;
+    padding-inline-end: 150px;
+}
+
+table tbody td
+{
+    padding-bottom: 0px;
+    padding-inline-end: 108px;
+    
+    vertical-align: top;
+}
+
+.fg
+{
+    margin: 0 40%;
+    font-size: 30px;
+    
+} 
+
+.fg thead th address
+{
+    
+    scroll-padding-inline-end: 25px;
+    color: #fff;
+}
+
+.gold
+{
+    border: 1px solid black;
+    height: 400px;
+    width: 100%;
+}

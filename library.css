@@ -1,0 +1,159 @@
+body{
+    box-sizing: border-box;
+    background-image: url('https://assets.website-files.com/604a97c70aee09eed25ce991/61897a35583a9b51db018d3e_MartinPublicSeating-97560-Importance-School-Library-blogbanner1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container
+{
+    
+    border: 0px solid black;
+    background-size: cover;
+    height: 1090px;
+    background-repeat: no-repeat;
+    width:100%;
+    
+   
+}
+
+.logo
+{
+    border: 0px solid black;
+   height: 120px;
+   width: 120px;
+    margin: 2% 2%;
+}
+.logo img
+{
+    height: 120px;
+}
+
+.menu-bar
+{
+    border: 0px solid yellow;
+    height: 100px;
+    width: 500px;
+    margin: -12%  60%;  
+    background: none;
+}
+
+.menu-bar img
+{
+    height: 50px;
+    width: 50px;
+    background: none;
+    
+}
+
+.menu-bar .About-us
+{
+    display: block;
+    position: absolute;
+    list-style: none;
+    margin: -3% 3%;
+    
+    font-size: 25px;
+    color: white;
+}
+
+.About-us  li a
+{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.About-us  li :hover
+{
+    display: block;
+    border-radius: 3px;
+    background-color: rgb(rgb 0,5,2), rgb(10, 226, 10), rgb(15, 14, 15);
+    color: red;
+}
+
+.contact-us
+{
+    margin:-17% 125% ;
+    width: 150px;
+}
+
+.plans
+{
+    margin:-21% 75% ;
+    width: 150px;
+}
+
+.intro
+{
+    border: 0px solid yellow;
+    height: 400px;
+    width: 700px;
+    margin: 20% auto ;
+    color: #fff;
+    
+    
+     font-size: 30px;
+
+}
+
+
+
+.icon-1
+{
+    margin: -5% 27px ;
+}
+
+.rgs
+{
+    border: 3px solid #fff;
+    height: 600px;
+    width: 700px;
+    margin: -12% 25% ;
+}
+
+.rgs h1
+{
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    
+}
+
+.frm
+{
+    margin-top: 4%;
+}
+.frm input
+ { 
+    display: block;
+     margin: 0 25%; 
+     padding-top: 20px;
+     padding-bottom: 0px;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;  
+} 
+
+.submit 
+{
+    width: 150px;
+    margin: 2% 60%;
+}
+.submit input
+{
+    width: 80px;
+}
+.reset 
+{
+    width: 150px;
+    margin: -5% 72%;
+}
+
+.reset input
+{
+    width: 80px;
+}
+
+
